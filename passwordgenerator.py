@@ -17,7 +17,7 @@ for letter in range(nr_letters):
   letterrnd = random.choice(letters)
   resultlist.append(letterrnd)
 
-for symbol in range(nr_numbers):
+for symbol in range(nr_symbols):
   symbolrnd = random.choice(symbols)
   resultlist.append(symbolrnd)
 
